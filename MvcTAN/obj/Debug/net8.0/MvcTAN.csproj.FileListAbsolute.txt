@@ -29,3 +29,4 @@
 /Users/nguyendinhtan/Downloads/BTTHPTPMQL-Dinhtan2207/MvcTAN/obj/Debug/net8.0/MvcTAN.pdb
 /Users/nguyendinhtan/Downloads/BTTHPTPMQL-Dinhtan2207/MvcTAN/obj/Debug/net8.0/MvcTAN.genruntimeconfig.cache
 /Users/nguyendinhtan/Downloads/BTTHPTPMQL-Dinhtan2207/MvcTAN/obj/Debug/net8.0/ref/MvcTAN.dll
+/Users/nguyendinhtan/Downloads/BTTHPTPMQL-Dinhtan2207/MvcTAN/obj/Debug/net8.0/MvcTAN.csproj.AssemblyReference.cache
